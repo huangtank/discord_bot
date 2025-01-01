@@ -1,2 +1,5 @@
 # discord_bot
-my discord bot.
+此 Discord 機器人有的功能有以下：
+1. 統測與模考計時倒數
+2. 關鍵字觸發回應
+3. 語音房進出提示
